@@ -184,6 +184,7 @@ h3 {
     border: 1px solid #eee !important;
     padding: 5px !important;
     box-shadow: none;
+    transition: border 0.1s ease-out !important;
 }
 
 .active-card {
